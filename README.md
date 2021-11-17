@@ -32,7 +32,7 @@ A custom session focused on Federation, scalability, schema design best practice
 * [Business Logic Layer](https://graphql.org/learn/thinking-in-graphs/#business-logic-layer)
 * [Pet Library](https://github.com/MoonHighway/pet-library/blob/initial-version/src/resolvers/Mutation.js)
 * [Third Party Auth](https://github.com/graphqlworkshop/photo-share-api/blob/step-e3/src/index.js)
-* [Federated Graph Auth](
+* [Federated Graph Auth](https://github.com/MoonHighway/federation-nation/blob/complete-solution/gateway-hue-review/index.js)
 
 ## Performance Enhancements
 
@@ -48,3 +48,4 @@ A custom session focused on Federation, scalability, schema design best practice
 ## Apollo Studio
 
 - [Apollo Studio](https://studio.apollographql.com/)
+- [Rover CLI](https://www.apollographql.com/docs/rover)
