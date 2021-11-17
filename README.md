@@ -19,8 +19,8 @@ A custom session focused on Federation, scalability, schema design best practice
 
 * [Slides](https://slides.com/moonhighway/unions)
 * [Funded Pet Library](https://funded-pet-library.moonhighway.com)
-- [First Schema Iteration](https://github.com/MoonHighway/pet-library-schema/tree/initial-schema)
-- [Complete Schema](https://github.com/MoonHighway/pet-library-schema/tree/complete)
+* [First Schema Iteration](https://github.com/MoonHighway/pet-library-schema/tree/initial-schema)
+* [Complete Schema](https://github.com/MoonHighway/pet-library-schema/tree/complete)
 
 ## Apollo Federation
 
