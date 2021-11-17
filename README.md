@@ -25,7 +25,7 @@ A custom session focused on Federation, scalability, schema design best practice
 ## Apollo Federation
 
 * [Slides](https://slides.com/d/I9erNhM/live#/6)
-* [Federation](https://github.com/moonhighway/federation-nation)
+* [Federation Project](https://github.com/moonhighway/federation-nation)
 
 ## Authorization & Authentication 
 
