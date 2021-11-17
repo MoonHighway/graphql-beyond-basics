@@ -29,8 +29,10 @@ A custom session focused on Federation, scalability, schema design best practice
 
 ## Authorization & Authentication 
 
-* [Pet Library](https://github.com/MoonHighway/pet-library/blob/initial-version/src/resolvers/Mutation.js)
 * [Business Logic Layer](https://graphql.org/learn/thinking-in-graphs/#business-logic-layer)
+* [Pet Library](https://github.com/MoonHighway/pet-library/blob/initial-version/src/resolvers/Mutation.js)
+* [Third Party Auth](https://github.com/graphqlworkshop/photo-share-api/blob/step-e3/src/index.js)
+* [Federated Graph Auth](
 
 ## Performance Enhancements
 
